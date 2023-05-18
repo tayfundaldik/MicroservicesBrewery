@@ -1,3 +1,3 @@
-#Microservices Beer Service
+###Microservices Beer Service###
 
 Spring Boot microservices example
